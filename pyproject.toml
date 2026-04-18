@@ -1,0 +1,12 @@
+[project]
+name = "b2binvoicedefaultrisk"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "numpy>=2.0.0",
+    "pandas>=3.0.2",
+    "scipy>=1.11.0",
+    "scikit-learn>=1.8.0",
+]
