@@ -1,3 +1,7 @@
+TASK: A lending team wants to identify which new business financing requests are most likely to create losses so they can prioritize reviews, make faster and safer approval decisions, reduce bad debt, and allocate capital toward applicants with stronger repayment outlook while maintaining consistent, transparent decision quality across the portfolio.
+
+-----------------------------------------------------
+
 Business task: Ridge regression for B2B invoice default risk (tabular baseline)
 Context: A fintech’s SMB lending team needs a fast, auditable baseline to score probability of 90-day default on new invoice-financing applications. Compliance wants stable, bounded coefficients (no wild swings when two highly correlated cash-flow metrics move together). Data science will later try richer models; first they need a production-safe linear baseline with strong regularization.
 
